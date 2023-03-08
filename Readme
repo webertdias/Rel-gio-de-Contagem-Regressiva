@@ -13,11 +13,8 @@ CSS
 [x]texto - cor, tamanho e posicionamento.
 
 Javascript
-[]DOM 
-[]getFullYear
-[]getMonth
-[]getDate
-[]Math.floor
-[]setInterval
-[]clearInterval
+[x]DOM 
+[x]getDate
+[x]Math.floor
+[x]setInterval
 </p>
